@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.13](https://github.com/transifex/marketplace-partner-apps/compare/thrillworks-flex-fields-app-v1.1.12...thrillworks-flex-fields-app-v1.1.13) (2024-05-20)
+
+
+### Bug Fixes
+
+* **deps:** bump ejs from 3.1.8 to 3.1.10 in /apps/flexfields ([#1703](https://github.com/transifex/marketplace-partner-apps/issues/1703)) ([1e9354f](https://github.com/transifex/marketplace-partner-apps/commit/1e9354fea00477d596491be230c7809555bc05b7))
+* **deps:** bump express from 4.18.2 to 4.19.2 in /apps/flexfields ([#1275](https://github.com/transifex/marketplace-partner-apps/issues/1275)) ([8c7514d](https://github.com/transifex/marketplace-partner-apps/commit/8c7514d788de121ccc1f8e791ce56a256bde36d7))
+* **deps:** bump webpack-dev-middleware from 5.3.3 to 5.3.4 in /apps/flexfields ([#1247](https://github.com/transifex/marketplace-partner-apps/issues/1247)) ([e4a47eb](https://github.com/transifex/marketplace-partner-apps/commit/e4a47eb01c6ce81c756c208cb1f191b64bbced9d))
+
 ## [1.1.12](https://github.com/contentful/marketplace-partner-apps/compare/thrillworks-flex-fields-app-v1.1.11...thrillworks-flex-fields-app-v1.1.12) (2024-05-16)
 
 

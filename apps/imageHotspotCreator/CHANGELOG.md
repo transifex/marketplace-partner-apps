@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.17](https://github.com/transifex/marketplace-partner-apps/compare/image-hotspot-creator-v1.0.16...image-hotspot-creator-v1.0.17) (2024-05-20)
+
+
+### Bug Fixes
+
+* **deps:** bump @mui/material from 5.15.13 to 5.15.14 in /apps/imageHotspotCreator ([#1309](https://github.com/transifex/marketplace-partner-apps/issues/1309)) ([61f93aa](https://github.com/transifex/marketplace-partner-apps/commit/61f93aa9cb426c4596df59c555c8b2561afe0621))
+* **deps:** bump axios from 1.4.0 to 1.6.8 ([#1567](https://github.com/transifex/marketplace-partner-apps/issues/1567)) ([6614699](https://github.com/transifex/marketplace-partner-apps/commit/6614699604d81fdf70cd00d521dee2915712fd88))
+* **deps:** bump ejs from 3.1.9 to 3.1.10 in /apps/imageHotspotCreator ([#1705](https://github.com/transifex/marketplace-partner-apps/issues/1705)) ([bd1f63d](https://github.com/transifex/marketplace-partner-apps/commit/bd1f63d048c94cfb157621abf67116a9bf1f7ec3))
+* **deps:** bump express from 4.18.2 to 4.19.2 in /apps/imageHotspotCreator ([#1282](https://github.com/transifex/marketplace-partner-apps/issues/1282)) ([727dc84](https://github.com/transifex/marketplace-partner-apps/commit/727dc843bd8ee96015f8298c5ee2ebf318eec4a4))
+* **deps:** bump webpack-dev-middleware from 5.3.3 to 5.3.4 in /apps/imageHotspotCreator ([#1243](https://github.com/transifex/marketplace-partner-apps/issues/1243)) ([7eaaf38](https://github.com/transifex/marketplace-partner-apps/commit/7eaaf388da5e87a9f717251a80b8e9cc8e96b818))
+
 ## [1.0.16](https://github.com/contentful/marketplace-partner-apps/compare/image-hotspot-creator-v1.0.15...image-hotspot-creator-v1.0.16) (2024-05-16)
 
 

@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.1.11](https://github.com/transifex/marketplace-partner-apps/compare/bynder-assets-v1.1.10...bynder-assets-v1.1.11) (2024-05-20)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/dam-app-base from 2.2.17 to 2.2.18 in /apps/bynder ([#1423](https://github.com/transifex/marketplace-partner-apps/issues/1423)) ([1f050aa](https://github.com/transifex/marketplace-partner-apps/commit/1f050aa3c6506d3235d5b3886b28c04526d972f6))
+* **deps:** bump @contentful/dam-app-base from 2.2.18 to 2.2.19 in /apps/bynder ([#1449](https://github.com/transifex/marketplace-partner-apps/issues/1449)) ([1dfb212](https://github.com/transifex/marketplace-partner-apps/commit/1dfb212a91a0f2da1f90a91cdfa9ecdda5f83332))
+* **deps:** bump @contentful/dam-app-base from 2.2.19 to 2.3.1 in /apps/bynder ([#1681](https://github.com/transifex/marketplace-partner-apps/issues/1681)) ([987e88e](https://github.com/transifex/marketplace-partner-apps/commit/987e88eb6eb2615ac955ada98f65afd74e770a64))
+* **deps:** bump @contentful/dam-app-base from 2.3.1 to 2.3.2 in /apps/bynder ([#1730](https://github.com/transifex/marketplace-partner-apps/issues/1730)) ([e16fcff](https://github.com/transifex/marketplace-partner-apps/commit/e16fcffdd1b791dfe18e328e046b1ea897c277f8))
+* **deps:** bump @contentful/dam-app-base from 3.0.0 to 3.0.2 in /apps/bynder ([#1825](https://github.com/transifex/marketplace-partner-apps/issues/1825)) ([36b08ee](https://github.com/transifex/marketplace-partner-apps/commit/36b08ee5101e64db50624e8d2a721764b849b924))
+
 ## [1.1.10](https://github.com/contentful/marketplace-partner-apps/compare/bynder-assets-v1.1.9...bynder-assets-v1.1.10) (2024-05-16)
 
 
